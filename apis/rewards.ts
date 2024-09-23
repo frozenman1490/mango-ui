@@ -1,6 +1,7 @@
 import { MangoMintsRedemptionClient } from '@blockworks-foundation/mango-mints-redemption'
 import { Provider } from '@project-serum/anchor'
 import { MANGO_DATA_API_URL } from 'utils/constants'
+import { AnchorProvider } from '@coral-xyz/anchor'
 
 export const DISTRIBUTION_NUMBER_PREFIX = 135
 
