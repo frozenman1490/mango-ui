@@ -1,4 +1,3 @@
-import { ArrowUpLeftIcon, ChevronDownIcon } from '@heroicons/react/20/solid'
 import { useTranslation } from 'next-i18next'
 import { useCallback, useMemo, useState } from 'react'
 import { useViewport } from '../../hooks/useViewport'
