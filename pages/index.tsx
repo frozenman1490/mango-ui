@@ -1,3 +1,4 @@
+import type { NextPage } from 'next'
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations'
 import AccountPage from '../components/account/AccountPage'
 import Head from 'next/head'
