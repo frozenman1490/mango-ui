@@ -1,3 +1,4 @@
+import BorrowPage from '@components/borrow/BorrowPage'
 import type { NextPage } from 'next'
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations'
 import Head from 'next/head'
