@@ -1,4 +1,3 @@
-import LeaderboardPage from '@components/leaderboard/LeaderboardPage'
 import type { NextPage } from 'next'
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations'
 import Head from 'next/head'
